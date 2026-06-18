@@ -1,71 +1,24 @@
-# Hi there, I'm Pranay Debnath 👋
+# 💫 About Me:
+🎓 Computer Science Engineer<br><br>💻 Software Engineer & Web Developer<br><br>🌱 Currently learning Full-Stack Development<br><br>🔍 Interested in Web Technologies, Software Development, and Open Source<br><br>⚡ Passionate about building modern and user-friendly applications<br><br>
 
-## 🚀 About Me
-🎓 Computer Science Engineer
 
-💻 Software Engineer & Web Developer
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pranay Debnath) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pranay.dn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranay Debnath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranaydebnath2006@gmail.com) 
 
-🌱 Currently learning Full-Stack Development
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pranay-debnath&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pranay-debnath&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranay-debnath&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-🔍 Interested in Web Technologies, Software Development, and Open Source
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pranay-debnath&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-⚡ Passionate about building modern and user-friendly applications
-
----
-
-## 🛠️ Skills
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MySQL
-- SQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Pranay-debnath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Currently Learning
-- Advanced React
-- Backend Development
-- Data Structures & Algorithms
-- AI & Machine Learning Basics
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-debnath&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-debnath&layout=compact)
-
----
-
-## 🎯 Goals
-- Build impactful software projects
-- Contribute to Open Source
-- Become a skilled Full-Stack Developer
-- Continuously learn new technologies
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Pranay-debnath
-- LinkedIn: Add your LinkedIn profile link here
-
----
-
-⭐ Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
